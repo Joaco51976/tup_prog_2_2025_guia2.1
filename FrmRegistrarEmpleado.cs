@@ -10,11 +10,15 @@ using System.Windows.Forms;
 
 namespace Ejer2
 {
-    public partial class Form1 : Form
+    public partial class FrmRegistrarEmpleado : Form
     {
-        public Form1()
+        public FrmRegistrarEmpleado()
         {
             InitializeComponent();
+        }
+
+        private void FrmRegistrarEmpleado_Load(object sender, EventArgs e)
+        {
         }
     }
 }

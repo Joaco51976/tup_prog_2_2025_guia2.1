@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ejer1
+namespace Ejer2
 {
     internal static class Program
     {
